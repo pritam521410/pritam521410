@@ -1,4 +1,4 @@
-![logo](https://github.com/pritam521410/pritam521410/blob/main/1752152504412.png)
+![logo](https://github.com/pritam521410/pritam521410/blob/main/1752152504412.jpg)
 
 <h1 align="center">Hi 👋, I'm Pritam Kumar</h1>
 <h3 align="center">A passionate Full-Stack Developer and CSE student from India</h3>
